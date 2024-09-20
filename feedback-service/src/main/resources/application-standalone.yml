@@ -1,0 +1,8 @@
+server:
+  port: 8085
+
+sl1degod:
+  services:
+    catalogue:
+      uri: http://localhost:8081
+
